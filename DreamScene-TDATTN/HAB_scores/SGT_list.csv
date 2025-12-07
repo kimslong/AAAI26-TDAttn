@@ -1,0 +1,337 @@
+﻿Animals
+
+1. Dog
+2. Cat
+3. Elephant
+4. Lion
+5. Bird
+6. Fish
+7. Rabbit
+8. Bear
+9. Horse
+10. Squirrel
+
+Occupations
+
+1. Doctor
+2. Teacher
+3. Engineer
+4. Nurse
+5. Police officer
+6. Driver
+7. Chef
+8. Lawyer
+9. Farmer
+10. Student
+
+People
+
+1. Man
+2. Woman
+3. Boy
+4. Girl
+5. Baby
+6. Child
+7. Teenager
+8. Elderly person
+9. Middle-aged person
+10. Couple
+
+Plants
+
+1. Tree
+2. Flower
+3. Grass
+4. Bush
+5. Cactus
+6. Fern
+7. Vine
+8. Moss
+9. Bamboo
+10. Palm
+
+FruitsAndVegetables
+
+1. Apple
+2. Banana
+3. Carrot
+4. Tomato
+5. Broccoli
+6. Strawberry
+7. Potato
+8. Orange
+9. Lettuce
+10. Grapes
+
+Artifacts
+
+1. Chair
+2. Screwdriver
+3. Car
+4. Toy
+5. Guitar
+6. Computer
+7. Lamp
+8. Clock
+9. Book
+10. Backpack
+
+NaturalElements
+
+1. Mountain
+2. River
+3. Lake
+4. Ocean
+5. Fire
+6. Cloud
+7. Sun
+8. Moon
+9. Rock
+10. Snow
+
+Color
+
+1. Red
+2. Blue
+3. Green
+4. Yellow
+5. Black
+6. White
+7. Purple
+8. Gray
+9. Pink
+10. Brown
+
+Price
+
+1. Expensive
+2. Cheap
+3. Moderate
+4. Affordable
+5. Low-priced
+6. High-priced
+7. Budget
+8. Costly
+9. Economical
+10. Reasonable-priced
+
+Age
+
+1. Young
+2. Old
+3. Mature
+4. Teenage
+5. Elderly
+6. Infant
+7. Child
+8. Adult
+9. Senior
+10. Aged
+
+Shape
+
+1. Tall
+2. Short
+3. Fat
+4. Thin
+5. Strong
+6. Ugly
+7. Handsome
+8. Beautiful
+9. Big
+10. small
+
+Material
+
+1. Wooden
+2. Metal
+3. Glass
+4. Fabric
+5. Plastic
+6. Ceramic
+7. Leather
+8. Paper
+9. Stone
+10. Rubber
+
+Texture
+
+1. Smooth
+2. Rough
+3. Soft
+4. Hard
+5. Silky
+6. Grainy
+7. Glossy
+8. Matte
+9. Bumpy
+10. Furry
+
+Movement
+
+1. Walk
+2. Run
+3. Jump
+4. Sit
+5. Stand
+6. Climb
+7. Swim
+8. Crawl
+9. Dance
+10. Fly
+
+FacialExpression
+
+1. Smile
+2. Frown
+3. Cry
+4. Laugh
+5. Glare
+6. Blush
+7. Smirk
+8. Grin
+9. Pout
+10. Sigh
+
+Communication
+
+1. Talk
+2. Listen
+3. Ask
+4. Answer
+5. Shout
+6. Whisper
+7. Argue
+8. Chat
+9. Explain
+10. Greet
+
+Creation
+
+1. Draw
+2. Paint
+3. Write
+4. Compose
+5. Sculpt
+6. Craft
+7. Design
+8. Build
+9. Create
+10. Perform
+
+NatureScene
+
+1. Forest
+2. Beach
+3. Mountain range
+4. Desert
+5. River
+6. Waterfall
+7. Glacier
+8. Cave
+9. Meadow
+10. Space
+
+UrbanScene
+
+1. Street
+2. Subway
+3. Square
+4. Mall
+5. Park
+6. Library
+7. Café
+8. Market
+9. Cinema
+10. Overpass
+
+IndoorScene
+
+1. Living room scene
+2. Kitchen scene
+3. Office scene
+4. Classroom scene
+5. Store scene
+6. Restaurant scene
+7. Gym scene
+8. Library scene
+9. Bathroom scene
+10. Bedroom scene
+
+FantasyScene
+
+1. Magical forest
+2. Sci-fi city
+3. Floating castle
+4. Underground kingdom
+5. Virtual realm
+6. Mysterious cave
+7. Time tunnel
+8. Futuristic lab
+9. Elf village
+10. Dragon's lair
+
+FestivalScene
+
+1. Christmas party
+2. Halloween celebration
+3. New Year celebration
+4. Spring Festival fair
+5. Wedding ceremony
+6. Fireworks show
+7. Carnival
+8. Music festival
+9. Temple fair
+10. Birthday party
+
+Weather
+
+1. Sunny
+2. Rainy
+3. Snowy
+4. Windy
+5. Cloudy
+6. Stormy
+7. Foggy
+8. Hail
+9. Thunderstorm
+10. Drizzle
+
+TimeOfDay
+
+1. Morning
+2. Noon
+3. Afternoon
+4. Evening
+5. Night
+6. Sunrise
+7. Sunset
+8. Midnight
+9. Dusk
+10. Dawn
+
+Style
+
+1. Realistic
+2. Abstract
+3. Futuristic
+4. Retro
+5. Minimalist
+6. Matte
+7. Fantasy
+8. Cyberpunk
+9. Surreal
+10. Cartoonish
+
+View
+
+1. Front view
+2. Side view
+3. Back view
+4. Three-quarter view
+5. Top view
+6. Bottom view
+7. High angle view
+8. Low angle view
+9. Perspective view
+10. Oblique view

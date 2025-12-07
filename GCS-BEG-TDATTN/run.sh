@@ -1,0 +1,1 @@
+python trian.py --config configs/final/goku.yaml

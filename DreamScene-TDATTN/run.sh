@@ -1,0 +1,1 @@
+python main.py --object --config configs/objects/ironman.yaml

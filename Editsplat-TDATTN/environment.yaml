@@ -1,0 +1,35 @@
+name: editsplat_test
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  # Python
+  - python=3.9
+  - pytorch==2.4.1
+  - torchvision==0.19.1
+  - torchaudio==2.4.1
+  - pytorch-cuda=11.8
+  - pip
+
+  - pip:
+    # Lang-SAM
+    - git+https://github.com/paulguerrero/lang-sam.git@main#egg=lang-sam
+    # # Grounding DINO
+    # - git+https://github.com/IDEA-Research/GroundingDINO.git@main#egg=GroundingDINO
+    # OpenAI CLIP
+    - git+https://github.com/openai/CLIP.git@main#egg=clip
+#    - diffusers==0.30.3
+    - image-reward==1.5
+    - plyfile
+    - scikit-learn
+    - tqdm
+    - opencv-python
+    - einops
+    - scikit-image
+    - matplotlib
+    - lpips
+    - numpy==1.26.1
+    - jaxtyping
+    - submodules/diff-gaussian-rasterization
+    - submodules/simple-knn
