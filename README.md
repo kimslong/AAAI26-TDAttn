@@ -1,10 +1,14 @@
-# 🎯 Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting
+# [AAAI 2026] Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting
 
-<div align="center">
 
-### ✨ **TD-Attn: Universal Framework for Multi-View Consistent 3D Generation & Editing** ✨
 
-</div>
+## 📢 News
+
+- **[2025.12.8]** We realsed the paper [![arXiv](Waiting for review).
+- **[2025.12.8]** We realsed codes of inference demo.
+- **[2025.11.08]** 🎉🎉 Our paper **"Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting"** has been **accepted to AAAI 2026**!
+
+
 
 ---
 
@@ -153,11 +157,3 @@ This work builds upon incredible contributions from the open-source 3D generatio
 We thank all researchers and developers who made these open-source frameworks available to the community.
 
 ---
-
-<div align="center">
-
-### 🌟 **Anonymous submission for review** 🌟
-
-*Code and additional materials will be made available upon acceptance*
-
-</div>
