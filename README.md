@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td width="300">
-        <img src="resources/poster.png" alt="Team Logo" width="300"/>
+        <img src="resources/poster_1.png" alt="Team Logo" width="300"/>
       </td>
       <td>
         <h2>📢 News</h2>
