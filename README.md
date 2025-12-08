@@ -2,11 +2,23 @@
 
 
 
-## 📢 News
-
-- **[2025.12.8]** We realsed the paper [![arXiv](Waiting for review).
-- **[2025.12.8]** We realsed codes of inference demo.
-- **[2025.11.08]** 🎉🎉 Our paper **"Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting"** has been **accepted to AAAI 2026**!
+<div align="center">
+  <table>
+    <tr>
+      <td width="300">
+        <img src="resources/poster.png" alt="Team Logo" width="300"/>
+      </td>
+      <td>
+        <h2>📢 News</h2>
+        <ul>
+          <li><strong>[2025.12.8]</strong> We released the paper <a href="#"><img src="https://img.shields.io/badge/arXiv-Waiting_for_review-red" alt="arXiv"></a></li>
+          <li><strong>[2025.12.8]</strong> We released codes of inference demo.</li>
+          <li><strong>[2025.11.08]</strong> 🎉🎉 Our paper <strong>"Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting"</strong> has been <strong>accepted to AAAI 2026</strong>!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
