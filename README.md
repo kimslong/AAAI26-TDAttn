@@ -166,6 +166,21 @@ This work builds upon incredible contributions from the open-source 3D generatio
 - **HRV** - View synthesis techniques
 - **P2P** - Prompt-to-prompt editing methods
 
-We thank all researchers and developers who made these open-source frameworks available to the community.
-
+#### We thank all researchers and developers who made these open-source frameworks available to the community.
 ---
+
+
+## 📝 Citation
+
+If you find our work useful in your research, please cite our paper:
+
+```bibtex
+@misc{jin2025debiasingdiffusionpriors3d,
+      title={Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting}, 
+      author={Shilong Jin and Haoran Duan and Litao Hua and Wentao Huang and Yuan Zhou},
+      year={2025},
+      eprint={2512.07345},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.07345}, 
+}
