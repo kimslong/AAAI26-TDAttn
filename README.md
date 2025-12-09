@@ -11,8 +11,8 @@
       <td>
         <h2>📢 News</h2>
         <ul>
-          <li><strong>[2025.12.8]</strong> We released the paper <a href="#"><img src="https://img.shields.io/badge/arXiv-Waiting_for_review-red" alt="arXiv"></a></li>
-          <li><strong>[2025.12.8]</strong> We released codes of inference demo.</li>
+          <li><strong>[2025.12.8]</strong> We released the paper <a href="https://arxiv.org/pdf/2512.07345" target="_blank"><img src="https://img.shields.io/badge/arXiv-2512.07345-red" alt="arXiv"></a></li>
+          <li><strong>[2025.12.8]</strong> We released codes.</li>
           <li><strong>[2025.11.08]</strong> 🎉🎉 Our paper <strong>"Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting"</strong> has been <strong>accepted to AAAI 2026</strong>!</li>
         </ul>
       </td>
