@@ -28,12 +28,12 @@
 
 <div align="center">
 
-|                🦸‍♂️ Superheroes                 | 🎮 Anime Characters | 🐾 Adorable Creatures |
+|                **Batman**    | **Goku** | **Pikachu** |
 |:------------------------------------------------:|:---:|:---:|
 | <img src="resources/batman.gif" width="200px"/>  | <img src="resources/goku.gif" width="200px"/> | <img src="resources/pikachu.gif" width="200px"/> |
-|                    **Batman**                    | **Goku** | **Pikachu** |
-| <img src="resources/ironman.gif" width="200px"/> | <img src="resources/mariow.gif" width="200px"/> | <img src="resources/squirrel.gif" width="200px"/> |
 |                   **Iron Man**                   | **Mario** | **Squirrel** |
+| <img src="resources/ironman.gif" width="200px"/> | <img src="resources/mariow.gif" width="200px"/> | <img src="resources/squirrel.gif" width="200px"/> |
+
 
 </div>
 
