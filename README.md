@@ -71,7 +71,6 @@ This bias causes subject-words to preferentially activate prior view features du
 
 🔹 **Hierarchical Attention Modulation Module (HAM)**: Uses semantic guidance trees for precise CA layer modulation
 
-The result? **Transformative multi-view consistency** across a wide range of 3D tasks!
 
 </details>
 
