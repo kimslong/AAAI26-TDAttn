@@ -1,7 +1,6 @@
 # [AAAI 2026] Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting
 
 
-
 <div align="center">
   <table>
     <tr>
