@@ -173,12 +173,12 @@ This work builds upon incredible contributions from the open-source 3D generatio
 If you find our work useful in your research, please cite our paper:
 
 ```bibtex
-@misc{jin2025debiasingdiffusionpriors3d,
-      title={Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting}, 
-      author={Shilong Jin and Haoran Duan and Litao Hua and Wentao Huang and Yuan Zhou},
-      year={2025},
-      eprint={2512.07345},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.07345}, 
+@inproceedings{jin2026debiasing,
+  title={Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting},
+  author={Jin, Shilong and Duan, Haoran and Hua, Litao and Huang, Wentao and Zhou, Yuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={7},
+  pages={5521--5529},
+  year={2026}
 }
